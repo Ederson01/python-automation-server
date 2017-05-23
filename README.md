@@ -11,4 +11,9 @@ Projeto de automação residencial - Server em Python usando Flask
 
 
 # Comandos
+cd C:\dev\iot\curso-ifsp\python-server
+## Cria o ambiente virtual
 virtualenv python-server
+## Ativa o ambiente virtual
+activate
+### no git bash não funciona
